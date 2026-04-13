@@ -1,0 +1,22 @@
+{
+  "name": "code-promo-prettylittlething",
+  "version": "1.0.0",
+  "description": "Recuperation automatique de codes promo PrettyLittleThing depuis shopilo.fr",
+  "main": "index.js",
+  "keywords": [
+    "code-promo",
+    "code-promo-prettylittlething",
+    "bon-de-reduction-prettylittlething",
+    "coupon-prettylittlething",
+    "reductions",
+    "shopilo",
+    "coupons"
+  ],
+  "author": "shopilo-fr",
+  "license": "MIT",
+  "homepage": "https://shopilo.fr/reductions/prettylittlething.fr",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-fr/code-promo-prettylittlething.git"
+  }
+}
